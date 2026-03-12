@@ -16,4 +16,4 @@ Build a portfolio of projects, develop strong communication skills to present in
 
 
 
-https://colab.research.google.com/drive/1_WYBzRLtMNyEqiOt4SUw96jkEXygUX5V#scrollTo=EKVufxU39aRG
+https://colab.research.google.com/drive/1_WYBzRLtMNyEqiOt4SUw96jkEXygUX5V#scrollTo=nrEunNTpHs01
